@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="256177" started-at="2019-02-13T06:45:56Z" finished-at="2019-02-13T06:50:12Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="256177" started-at="2019-02-13T06:45:56Z" finished-at="2019-02-13T06:50:12Z">
+      <class name="com.KENCentral.qa.testcases.UserPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.KENCentral.qa.testcases.UserPageTest@67b6d4ae]" name="setup" is-config="true" duration-ms="18116" started-at="2019-02-13T06:47:49Z" finished-at="2019-02-13T06:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getcurrentUserPageUrl()[pri:8, instance:com.KENCentral.qa.testcases.UserPageTest@67b6d4ae]" name="getcurrentUserPageUrl" duration-ms="7" started-at="2019-02-13T06:48:07Z" finished-at="2019-02-13T06:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getcurrentUserPageUrl -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.KENCentral.qa.testcases.UserPageTest@67b6d4ae]" name="setup" is-config="true" duration-ms="17231" started-at="2019-02-13T06:48:07Z" finished-at="2019-02-13T06:48:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.KENCentral.qa.testcases.UserPageTest@67b6d4ae]" name="teardown" is-config="true" duration-ms="0" started-at="2019-02-13T06:48:07Z" finished-at="2019-02-13T06:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="clickonaddUser()[pri:9, instance:com.KENCentral.qa.testcases.UserPageTest@67b6d4ae]" name="clickonaddUser" duration-ms="108061" started-at="2019-02-13T06:48:24Z" finished-at="2019-02-13T06:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonaddUser -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.KENCentral.qa.testcases.UserPageTest@67b6d4ae]" name="teardown" is-config="true" duration-ms="0" started-at="2019-02-13T06:50:12Z" finished-at="2019-02-13T06:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.KENCentral.qa.testcases.UserPageTest -->
+      <class name="com.KENCentral.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="setup" is-config="true" duration-ms="8147" started-at="2019-02-13T06:45:56Z" finished-at="2019-02-13T06:46:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateHomePagetitle()[pri:1, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="validateHomePagetitle" duration-ms="20028" started-at="2019-02-13T06:46:04Z" finished-at="2019-02-13T06:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePagetitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="tearDown" is-config="true" duration-ms="610" started-at="2019-02-13T06:46:24Z" finished-at="2019-02-13T06:46:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="setup" is-config="true" duration-ms="5227" started-at="2019-02-13T06:46:25Z" finished-at="2019-02-13T06:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getcurrentURL()[pri:2, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="getcurrentURL" duration-ms="14546" started-at="2019-02-13T06:46:30Z" finished-at="2019-02-13T06:46:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getcurrentURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="tearDown" is-config="true" duration-ms="601" started-at="2019-02-13T06:46:44Z" finished-at="2019-02-13T06:46:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="setup" is-config="true" duration-ms="4954" started-at="2019-02-13T06:46:45Z" finished-at="2019-02-13T06:46:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateleftMenu()[pri:3, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="validateleftMenu" duration-ms="9416" started-at="2019-02-13T06:46:50Z" finished-at="2019-02-13T06:46:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateleftMenu -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="tearDown" is-config="true" duration-ms="598" started-at="2019-02-13T06:46:59Z" finished-at="2019-02-13T06:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="setup" is-config="true" duration-ms="5026" started-at="2019-02-13T06:47:00Z" finished-at="2019-02-13T06:47:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateheader()[pri:4, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="validateheader" duration-ms="11096" started-at="2019-02-13T06:47:05Z" finished-at="2019-02-13T06:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateheader -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="tearDown" is-config="true" duration-ms="611" started-at="2019-02-13T06:47:16Z" finished-at="2019-02-13T06:47:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="setup" is-config="true" duration-ms="8995" started-at="2019-02-13T06:47:17Z" finished-at="2019-02-13T06:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ClickonUserlink()[pri:5, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="ClickonUserlink" duration-ms="8234" started-at="2019-02-13T06:47:26Z" finished-at="2019-02-13T06:47:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickonUserlink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.KENCentral.qa.testcases.HomePageTest@617c74e5]" name="tearDown" is-config="true" duration-ms="599" started-at="2019-02-13T06:47:34Z" finished-at="2019-02-13T06:47:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.KENCentral.qa.testcases.HomePageTest -->
+      <class name="com.KENCentral.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.KENCentral.qa.testcases.LoginPageTest@6537cf78]" name="setup" is-config="true" duration-ms="6550" started-at="2019-02-13T06:47:34Z" finished-at="2019-02-13T06:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getCurrentURL()[pri:6, instance:com.KENCentral.qa.testcases.LoginPageTest@6537cf78]" name="getCurrentURL" duration-ms="4" started-at="2019-02-13T06:47:41Z" finished-at="2019-02-13T06:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCurrentURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.KENCentral.qa.testcases.LoginPageTest@6537cf78]" name="tearDown" is-config="true" duration-ms="586" started-at="2019-02-13T06:47:41Z" finished-at="2019-02-13T06:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.KENCentral.qa.testcases.LoginPageTest@6537cf78]" name="setup" is-config="true" duration-ms="5813" started-at="2019-02-13T06:47:42Z" finished-at="2019-02-13T06:47:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:7, instance:com.KENCentral.qa.testcases.LoginPageTest@6537cf78]" name="loginTest" duration-ms="481" started-at="2019-02-13T06:47:47Z" finished-at="2019-02-13T06:47:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.KENCentral.qa.testcases.LoginPageTest@6537cf78]" name="tearDown" is-config="true" duration-ms="596" started-at="2019-02-13T06:47:48Z" finished-at="2019-02-13T06:47:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.KENCentral.qa.testcases.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
